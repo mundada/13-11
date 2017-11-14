@@ -1,0 +1,18 @@
+Angular 2 is cross platform we can develop web application, mobile application as well
+Angular 2 work with type script of Microsoft
+Why angular: 
+The code will be cleaner, More powerful application, faster and simpler
+The main parts are:
+1 module: every application has one module that is called as ngmodule and we called it as Appmodule.
+2. component : we can create multiple components, each component has it own view and can be controlled.
+3. template: it is a html component which is used to make view for the application.
+4. metadata: information given to angular to tell them they are realted togetherb 
+5. databinding
+This is present in between component and template,These are two types 
+Property binding 
+Event binding
+6. Service: this is for using resusable code, for example we can use one logic in ten different components.
+7. directive: they are built in ones, like ng modules or custome directives can be created
+8. dependency injection: we can use this with the services to use the resuasable components.
+Displaying Data:
+Interpolation: we can display property of components using the property name in the view template enclosed with double braces
